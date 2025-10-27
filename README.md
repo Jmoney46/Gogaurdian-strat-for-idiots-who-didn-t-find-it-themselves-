@@ -12,4 +12,11 @@ Then click it, it should look like this:
 On the side, you'll also see some tools.
 
 Now with that shit done, you are gonna wanna go down to the gogaurdian extension, and you should see this option that wasn't here before.
-<img src="blob:chrome-untrusted://media-app/8dc30f03-7200-4d8c-b1a9-7f0ae5269cb8" alt="Screenshot 2025-10-27 12.59.34.png"/><img width="398" height="207" alt="image" src="https://github.com/user-attachments/assets/cdeeff9c-e5ac-4a22-ae72-f2a9cec4cc1d" />
+<img width="398" height="202" alt="image" src="https://github.com/user-attachments/assets/4a5f3952-5ccf-4971-a7b0-e1814da63f13" />
+<br>Click on the Service Worker and paste in this code:<br>
+
+<br>chrome.management.setEnabled (‘jjfeehgdeghiknkilcildnjofkcndjcm’ , false)<br>
+
+<br>chrome.management.setEnabled (‘haldlgldplgnggkjaafhelgiaglafanh’ , false)<br>
+
+<br>Also, before you enter the code, you must delete and re-enter the quotes.<br>
